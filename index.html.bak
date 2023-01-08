@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kádár László</title>
+<meta name="description" content="Kádár László">
+<meta name="keywords" content="1,2.,3">
+<link href="css/stilus.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div id="wrapper"> 
+  
+  <div id="header">
+  
+  <div class="banner_img">
+    <h1>Kádár László</h1>
+    <p>zene, kódolás</p>
+    </div>
+
+	</div>
+	
+    <div class="navigation">
+      <ul>
+                    <li><a href="index.html">Kezdőlap</a></li>
+        <li><a href="kapcsolat.html">Kapcsolat</a></li>
+        <li><a href="kepek.html">Képek</a></li>
+        <li><a href="zene.html">Zene</a></li>
+        <li><a href="oraimunkak.html">Órai munkák</a></li>
+      </ul>
+    </div>
+    
+    <div class="right_side_bar"> 
+     
+      
+      <div class="col_1">
+        <h1>Zene izlésről</h1>
+        <div class="box">
+          <p>Legtöbb beat nem az enyém, találom őket és felhasználom a saját szövegeim segítségével </p>
+        </div>
+      </div>
+      
+    </div>
+	
+	<div id="page_content">
+ 
+    <div class="left_section">
+    <div class="common_content">
+        <h2>Rólam</h2>
+        <p>19 éves vagyok, most kezdtem ezt a sulit, eddig még valahogy megyeget, szeretem a zenét, leginkább a rap-trap, külföldi előadókat,
+magyart nem nagyon bírom, se más fajta zenét, max a belopott alapok+az alatta lévő hi-hat , bass-el megpörkölve, jól tudnak hangzani a régi alapok. régebb óta írok rap szövegeket, de nem nagyon rakom ki sehova se, se nem veszek fel nagyon, mert úgy gondolom,
+a hang imitálásra még mindig több időt kell szánnom, igaz , hogy könnyű, de csak annyira amennyire gondolja azt valaki</p>
+      </div>
+      
+           <hr>
+      <div class="top_content border_none">
+        <div class="column_one">
+          <h2>Család</h2>
+          <p>Meg van mind két szülőm és két bátyám van, az egyik dolgozik a fiatalabbik cégének és jól el vannak</p>
+          <br>
+          <p>Családtagjaim neve időrendben:
+<ul><li>Zsolt(apuka)</li>
+<li>Edit(anyuka)</li>
+<li>Zsolt(báttyám)</li>
+<li>Tomi(báttyám)</li>
+<li>Laci(jómagam)</li>
+</ul>
+
+</p>
+ </div>
+        <div class="column_two border_left">
+          <h2> Érdeklődések</h2>
+          <p>Csak a zene, és a programozás, de leginkább a szöveg írás</p>
+        <br>
+
+<table>
+  <tr>
+    <th>Érdeklődési kör</th>
+    <th>Mennyi idő</th>
+  </tr>
+  <tr>
+    <td>Szövegírás</td>
+    <td>30%</td>
+  </tr>
+  <tr>
+    <td>Zenei alap keresés</td>
+    <td>40%</td>
+  </tr>
+  <tr>
+    <td>Tanulás</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Közösségi kapcsolatok fenntartása</td>
+    <td>10%</td>
+  </tr>
+</table>
+
+        </div>
+      </div>
+    </div>
+    
+    <div class="clear"></div>
+
+  
+  <div id="footer">Kádár László
+</div>
+</div>
+
+</body></html>
